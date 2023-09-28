@@ -1,6 +1,6 @@
 # DG LAB
 
-![DG Lab Logo](../res/images/DGLabLogo.png)
+![DG Lab Logo](res/images/DGLabLogo.png)
 
 Develop `n Games Laboratory (DG Lab) es un espacio dentro del ITAM en el que no dedicamos al diseño y desarrollo de videojuegos, aplicaciones web y móviles.
 
